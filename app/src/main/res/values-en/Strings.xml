@@ -1,10 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AndroidTrainning</string>
-    <string name="label_name">nombre</string>
-    <string name="label_surname">apellidos</string>
-    <string name="label_birthDate">fecha de nacimiento</string>
-    <string name="action_save">guardar</string>
-    <string name="action_ex01_form">Ejercicio01: Form</string>
+    <string name="label_name">name</string>
+    <string name="label_surname">surname</string>
+    <string name="label_birthDate">birthdate</string>
+    <string name="action_save">save</string>
+    <string name="action_ex01_form">Excercise1: Form</string>
     <string name="label_disccount">-15%</string>
     <string name="label_dogName">Rami</string>
     <string name="label_dogDescription">Un diamante sin pulir</string>

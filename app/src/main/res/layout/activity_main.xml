@@ -16,7 +16,4 @@
         android:text="@string/action_ex01_form"
         android:layout_margin="20dp"
         android:layout_gravity="center"></Button>
-
-
-
 </LinearLayout>

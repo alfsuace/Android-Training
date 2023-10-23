@@ -38,6 +38,7 @@ class XmlLocalDataSource(private val context: Context) {
                 sharedPref.getString("genre", "")!!,
                 Date(sharedPref.getLong("dateBorn", 0))
             ).right()
+
         } catch (ex: Exception) {
             ErrorApp.UnknowError.left()
         }
